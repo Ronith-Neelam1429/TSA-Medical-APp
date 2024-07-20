@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092363374390",
+    "project_id": "tsa-medical-app",
+    "storage_bucket": "tsa-medical-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092363374390:android:8b951829b7ebd81459ed97",
+        "android_client_info": {
+          "package_name": "com.example.tsa_medapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyComXQjL53MFnPUAmnWYxmifI2XZQWGFG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
